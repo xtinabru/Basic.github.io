@@ -14,5 +14,5 @@ This is a basic static webpage as a part of exercises on CS
 3. **Java**
 
 
-
-[This is OUlu]([(https://visitoulu.fi/wp-content/uploads/2022/05/Toripolliisi3.jpg)]  
+## This is Oulu
+[This is Oulu]([(https://visitoulu.fi/wp-content/uploads/2022/05/Toripolliisi3.jpg)]  
