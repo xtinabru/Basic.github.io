@@ -12,7 +12,7 @@ This is a basic static webpage as a part of exercises on CS
 1. **Python**
 2. **JavaScript**
 3. **Java**
-4. 
 
 
-![This is OUlu]([https://example.com/image.jpg](https://visitoulu.fi/wp-content/uploads/2022/05/Toripolliisi3.jpg))  
+
+[This is OUlu]([https://example.com/image.jpg](https://visitoulu.fi/wp-content/uploads/2022/05/Toripolliisi3.jpg))  
